@@ -13,5 +13,5 @@ A beginner-friendly Python quiz game that tests your knowledge with interactive 
 Make sure you have Python installed.
 
 ```bash
-python quiz.py
+python Quiz Game.py
 
